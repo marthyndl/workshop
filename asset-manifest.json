@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marthyndl/workshop.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/marthyndl/workshop.git/static/js/main.48bce41c.chunk.js",
-    "main.js.map": "/marthyndl/workshop.git/static/js/main.48bce41c.chunk.js.map",
-    "runtime-main.js": "/marthyndl/workshop.git/static/js/runtime-main.674ca0b3.js",
-    "runtime-main.js.map": "/marthyndl/workshop.git/static/js/runtime-main.674ca0b3.js.map",
-    "static/js/2.653b8a97.chunk.js": "/marthyndl/workshop.git/static/js/2.653b8a97.chunk.js",
-    "static/js/2.653b8a97.chunk.js.map": "/marthyndl/workshop.git/static/js/2.653b8a97.chunk.js.map",
-    "index.html": "/marthyndl/workshop.git/index.html",
-    "precache-manifest.72ab7cf1791cdf17bb4ec97dad4bf40e.js": "/marthyndl/workshop.git/precache-manifest.72ab7cf1791cdf17bb4ec97dad4bf40e.js",
-    "service-worker.js": "/marthyndl/workshop.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/marthyndl/workshop.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.653b8a97.chunk.js.LICENSE.txt": "/marthyndl/workshop.git/static/js/2.653b8a97.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/marthyndl/workshop.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/workshop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/workshop/static/js/main.2d02eaf8.chunk.js",
+    "main.js.map": "/workshop/static/js/main.2d02eaf8.chunk.js.map",
+    "runtime-main.js": "/workshop/static/js/runtime-main.427eb774.js",
+    "runtime-main.js.map": "/workshop/static/js/runtime-main.427eb774.js.map",
+    "static/js/2.653b8a97.chunk.js": "/workshop/static/js/2.653b8a97.chunk.js",
+    "static/js/2.653b8a97.chunk.js.map": "/workshop/static/js/2.653b8a97.chunk.js.map",
+    "index.html": "/workshop/index.html",
+    "precache-manifest.4d3b321a9a30e902138c1ccac9fb4b6c.js": "/workshop/precache-manifest.4d3b321a9a30e902138c1ccac9fb4b6c.js",
+    "service-worker.js": "/workshop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/workshop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.653b8a97.chunk.js.LICENSE.txt": "/workshop/static/js/2.653b8a97.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/workshop/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.674ca0b3.js",
+    "static/js/runtime-main.427eb774.js",
     "static/js/2.653b8a97.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.48bce41c.chunk.js"
+    "static/js/main.2d02eaf8.chunk.js"
   ]
 }
